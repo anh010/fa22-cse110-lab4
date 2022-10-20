@@ -1,0 +1,2 @@
+1. the bug is that when javascript selects input from the input boxes is that it will interpret the input as a string. so when adding both of these its just combines the numbers that were inputed.
+2. since numbers are mapped to the string representation we can simply fix this by converting to a number with parseint before doing the sum. 
