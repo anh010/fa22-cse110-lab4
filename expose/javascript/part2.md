@@ -61,7 +61,8 @@
 
 18. see [part2-question18.js](part2-question18.js) file 
 
-19. ```1
+19. ```
+       1
        4 
        3
        2  
